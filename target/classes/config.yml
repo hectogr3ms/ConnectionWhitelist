@@ -1,0 +1,6 @@
+# List of Whitelisted IP Addresses
+whitelistedIPs:
+  - "127.0.0.1"
+  - "1.1.1.1"
+DisableServerPinging: false #Makes server look offline - can increase CPU/show null error
+debug: false #Print the IP a player joins with

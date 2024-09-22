@@ -1,0 +1,4 @@
+dev\hectograms\connectionwhitelist\ConnectionWhitelistCommand.class
+dev\hectograms\connectionwhitelist\ConnectionWhitelist.class
+dev\hectograms\connectionwhitelist\ServerListPingListener.class
+dev\hectograms\connectionwhitelist\PlayerLoginListener.class

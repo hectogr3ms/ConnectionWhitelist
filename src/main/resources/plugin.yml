@@ -1,0 +1,13 @@
+name: ConnectionWhitelist
+version: '${project.version}'
+main: dev.hectograms.connectionwhitelist.ConnectionWhitelist
+description: Restrict server accessibility!
+author: hectograms
+commands:
+  connectionwhitelist:
+    description: Main plugin command
+    aliases: [cwl]
+permissions:
+  cwl.admin:
+    description: Permission to manage the IP join whitelist
+    default: op
