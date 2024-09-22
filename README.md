@@ -1,0 +1,1 @@
+This plugin is designed to be a simple and efficient alternative to OnlyProxyJoin, fixing BungeeCord's IPForwarding issue. It functions as an roadblock that only allows whitelisted connections to join, with easy setup and commands to manage the plugin.
